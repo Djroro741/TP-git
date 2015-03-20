@@ -1,8 +1,8 @@
 ### application.sh - 2015 - Pasquier Rodolphe ###
+version = "2"
+build_hour = "11H00"
 
-echo "Build : 10:00"
-
-echo "version 1.1"
-
+echo "Build ${build_hour}"
+echo "version ${version}"
 
 echo "Copyright company - 2015"
