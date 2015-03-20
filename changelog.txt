@@ -1,4 +1,0 @@
-5a29d70 Display copyrigth
-84c07e2 Add file header
-0039038 Add build time
-2788571 Initial commit
