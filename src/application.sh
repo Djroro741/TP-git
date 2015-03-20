@@ -1,4 +1,4 @@
-### application.sh - 2015 - Pasquier Rodolphe ###
+### application.sh - 2015 - Pasquier Rodolphe - HURTAUD Clément###
 version = "2"
 build_hour = "11H00"
 
